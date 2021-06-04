@@ -1,0 +1,12 @@
+.show {
+    display: block;
+}
+.hide {
+    display: none;
+}
+.dropdown-menu {
+    right: -15% !important;
+}
+.nav-link {
+    text-decoration: none !important;
+}
